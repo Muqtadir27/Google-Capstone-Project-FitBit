@@ -7,7 +7,7 @@ Bellabeat-Fitbit Data Analysis is a portfolio project based on the Google Data A
 
 🔗 View the full project on Kaggle: https://www.kaggle.com/code/mohammedabdulmuqtadi/bellabeat-fitbit
 
-🌟 Features
+## 🌟 Features
 📅 Daily Engagement Trends — Tracks activity frequency and consistency
 
 👣 Step & Distance Analysis — Summarizes physical activity habits
@@ -18,10 +18,10 @@ Bellabeat-Fitbit Data Analysis is a portfolio project based on the Google Data A
 
 📊 Data Visualizations — Clear plots using ggplot2
 
-🛠️ Technology Stack
+## 🛠️ Technology Stack
 Language: R
 
-Libraries:
+### Libraries:
 
 tidyverse – data wrangling
 
@@ -33,7 +33,7 @@ cluster – K-Means clustering
 
 Platform: Kaggle Notebooks
 
-📂 Project Structure
+## 📂 Project Structure
 plaintext
 Copy
 Edit
@@ -42,7 +42,7 @@ bellabeat-fitbit.ipynb      # Main Kaggle R notebook
 📁 Dataset Source            # Fitbit public dataset on Kaggle (CSV files)
 💡 Since this project was developed on Kaggle, it follows a notebook-centric structure. All analysis is done interactively in R within a single notebook.
 
-🖥️ How to Run the Project
+## 🖥️ How to Run the Project
 1. Visit the Kaggle Notebook
 🔗 Kaggle Project Link
 
@@ -52,14 +52,14 @@ This will fork the notebook into your own Kaggle environment.
 3. Run All Cells
 Make sure all dependencies are available and the runtime is set to R.
 
-📊 Key Analyses
+## 📊 Key Analyses
 ✅ Date Conversion: Used lubridate::mdy() to create a clean daily date column (Ymd)
 
 👣 Steps & Distance Trends: Summarized and visualized using group_by() and summarise()
 
 🔥 Calories vs Activity: Used scatter plots + linear regression for calories vs steps/distance
 
-🔍 K-Means Clustering: Clustered users into three groups:
+## 🔍 K-Means Clustering: Clustered users into three groups:
 
 High Activity & Calories
 
@@ -67,11 +67,11 @@ Moderate Activity
 
 Sedentary Users
 
-📈 Visualization Example:
+## 📈 Visualization Example:
 
-![image](https://github.com/user-attachments/assets/6567c333-2b0a-4f2c-abf7-42232ab20b76)
+![image](https://github.com/user-attachments/assets/fd649c99-adab-4846-bedc-892ef5af8cc4)
 
-📢 Insights & Recommendations
+## 📢 Insights & Recommendations
 🔍 Insights:
 Engagement levels drop on weekends
 
@@ -79,17 +79,17 @@ Higher steps and distance correlate strongly with calorie burn
 
 Users show distinct activity behavior profiles (clustered)
 
-📈 Recommendations:
+## 📈 Recommendations:
 🎯 Personalized Plans: Adapt Bellabeat features per cluster type
 
 📆 Weekend Challenges: Boost activity during low-engagement days
 
 💧 Smart Suggestions: Recommend hydration, mindfulness, or rest based on patterns
 
-🏁 Conclusion
+## 🏁 Conclusion
 This case study demonstrates the power of data storytelling using R. It not only showcases user behavior patterns from wearable data, but also offers actionable recommendations that Bellabeat can apply to enhance its product engagement and marketing strategy.
 
-🤝 Contributing
+## 🤝 Contributing
 While this was a solo case study project, feedback and improvements are always welcome!
 
 To contribute:
@@ -104,14 +104,14 @@ Edit
 This project uses data released under CC0: Public Domain.
 All analysis and visualizations by Mohammed Abdul Muqtadir. Feel free to reuse with credit.
 
-📧 Contact
+## 📧 Contact
 Mohammed Abdul Muqtadir
 
-🌐 GitHub: Im-Mohammed
+🌐 GitHub: Muqtadir27
 
 📫 Email: abdulmuqtadir1027@gmail.com
 
-❤️ Acknowledgments
+## ❤️ Acknowledgments
 Dataset: Fitbit Dataset – Kaggle by Mobius
 
 Framework: Google Data Analytics Capstone – Coursera
