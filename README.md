@@ -105,5 +105,5 @@ Mohammed Abdul Muqtadir
 
 ## ❤️ Acknowledgments
 Dataset: Fitbit Dataset – Kaggle by Mobius    
-Framework: Google Data Analytics Capstone – Coursera    
+Framework: Google Data Analytics Capstone             
 Tools: R, tidyverse, ggplot2, cluster   
