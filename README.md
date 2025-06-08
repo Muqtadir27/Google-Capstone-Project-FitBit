@@ -1,4 +1,4 @@
-###  📊 Bellabeat Fitness Tracker Data Analysis with R
+#  📊 Bellabeat Fitness Tracker Data Analysis with R
 
 Welcome to my data analysis case study based on the Bellabeat Smart Device Dataset from Kaggle. This project follows the Google Data Analytics Capstone structure (Ask, Prepare, Process, Analyze, Share, Act) to explore user behavior and trends using Fitbit data. The ultimate goal is to derive marketing insights for Bellabeat, a wellness technology company focused on women’s health.
 
