@@ -34,6 +34,7 @@ cluster – K-Means clustering
 Platform: Kaggle Notebooks
 
 ## 📂 Project Structure
+```
 plaintext
 Copy
 Edit
@@ -41,7 +42,7 @@ bellabeat-fitbit.ipynb      # Main Kaggle R notebook
 📊 Inline Visualizations     # ggplot2 graphs for trends, clusters, and correlations
 📁 Dataset Source            # Fitbit public dataset on Kaggle (CSV files)
 💡 Since this project was developed on Kaggle, it follows a notebook-centric structure. All analysis is done interactively in R within a single notebook.
-
+```
 ## 🖥️ How to Run the Project
 1. Visit the Kaggle Notebook
 🔗 Kaggle Project Link
