@@ -1,6 +1,6 @@
 #  📊 Bellabeat Fitness Tracker Data Analysis with R
 
-Bellabeat-Fitbit Data Analysis is a portfolio project based on the Google Data Analytics Capstone. It explores how smart device usage data can provide actionable insights for Bellabeat, a women-focused wellness technology company. Using Fitbit data, this analysis identifies user behavior patterns and proposes marketing strategies based on data-driven insights.
+**Bellabeat-Fitbit** Data Analysis is a portfolio project based on the Google Data Analytics Capstone. It explores how smart device usage data can provide actionable insights for Bellabeat, a women-focused wellness technology company. Using Fitbit data, this analysis identifies user behavior patterns and proposes marketing strategies based on data-driven insights.
 
 ![Image](https://github.com/user-attachments/assets/228bac97-9445-49d5-930a-d990965a01ff)
 
@@ -10,21 +10,21 @@ Bellabeat-Fitbit Data Analysis is a portfolio project based on the Google Data A
 
 ## 🌟 Features
 
-📅 Daily Engagement Trends — Tracks activity frequency and consistency    
-👣 Step & Distance Analysis — Summarizes physical activity habits    
-🔥 Calories vs Effort Visualization — Understands energy expenditure patterns    
-🔍 Clustering — Groups users based on behavior using K-Means     
-📊 Data Visualizations — Clear plots using ggplot2     
+📅**Daily Engagement Trends** — Tracks activity frequency and consistency    
+👣**Step & Distance Analysis** — Summarizes physical activity habits    
+🔥**Calories vs Effort Visualization** — Understands energy expenditure patterns    
+🔍**Clustering** — Groups users based on behavior using K-Means     
+📊**Data Visualizations** — Clear plots using ggplot2     
 
 
 ## 🛠️ Technology Stack
 Language: R     
 ### Libraries:     
-tidyverse – data wrangling      
-lubridate – date handling     
-ggplot2 – visualizations     
-cluster – K-Means clustering    
-Platform: Kaggle Notebooks     
+- tidyverse – data wrangling      
+- lubridate – date handling     
+- ggplot2 – visualizations     
+- cluster – K-Means clustering    
+- Platform: Kaggle Notebooks     
 
 
 ## 📂 Project Structure
@@ -42,9 +42,9 @@ bellabeat-fitbit.ipynb      # Main Kaggle R notebook
 🔗 Kaggle Project Link: https://www.kaggle.com/code/mohammedabdulmuqtadi/bellabeat-fitbit
 
 ```
-3. Click “Copy & Edit”
+2. Click “Copy & Edit”
 This will fork the notebook into your own Kaggle environment.
-4. Run All Cells
+3. Run All Cells
 Make sure all dependencies are available and the runtime is set to R.
 
 
@@ -57,35 +57,34 @@ Make sure all dependencies are available and the runtime is set to R.
 
 
 ## 🔍 K-Means Clustering: Clustered users into three groups:
-High Activity & Calories
-Moderate Activity
-Sedentary Users
-
+- High Activity & Calories        
+- Moderate Activity          
+- Sedentary Users         
 
 
 ## 📈 Visualization Example:
 
 ![image](https://github.com/user-attachments/assets/fd649c99-adab-4846-bedc-892ef5af8cc4)
 
->Scenario based Clustering
+> Scenario-based Clustering
 
 ## 📢 Insights & Recommendations
 🔍 Insights:
-Engagement levels drop on weekends        
-Higher steps and distance correlate strongly with calorie burn      
-Users show distinct activity behavior profiles (clustered)     
+1. Engagement levels drop on weekends        
+2. Higher steps and distance correlate strongly with calorie burn      
+3. Users show distinct activity behavior profiles (clustered)     
 ## 📈 Recommendations:
-🎯 Personalized Plans: Adapt Bellabeat features per cluster type     
-📆 Weekend Challenges: Boost activity during low-engagement days     
-💧 Smart Suggestions: Recommend hydration, mindfulness, or rest based on patterns     
+- 🎯 Personalized Plans: Adapt Bellabeat features per cluster type     
+- 📆 Weekend Challenges: Boost activity during low-engagement days     
+- 💧 Smart Suggestions: Recommend hydration, mindfulness, or rest based on patterns     
 
 
 ## 🏁 Conclusion
-This case study demonstrates the power of data storytelling using R. It not only showcases user behavior patterns from wearable data, but also offers actionable recommendations that Bellabeat can apply to enhance its product engagement and marketing strategy.
+This case study demonstrates the power of data storytelling using R. It not only showcases user behavior patterns from wearable data but also offers actionable recommendations that Bellabeat can apply to enhance its product engagement and marketing strategy.
 
 
 ## 🤝 Contributing
-While this was a solo case study project, feedback and improvements are always welcome!
+While this was a solo case study project, feedback and improvements are always welcome!            
 
 To contribute:
 ```
@@ -97,8 +96,8 @@ bash
 ```
 
 ## 📜 License
-This project is licensed under the **Apache 2.0 License**.  
-All analysis and visualizations by Mohammed Abdul Muqtadir. Feel free to reuse with credit.     
+- This project is licensed under the **Apache 2.0 License**.  
+- All analyses and visualizations by Mohammed Abdul Muqtadir. Feel free to reuse with credit.     
 
 ## 📧 Contact
 Mohammed Abdul Muqtadir        
@@ -106,6 +105,6 @@ Mohammed Abdul Muqtadir
 📫 Email: abdulmuqtadir1027@gmail.com               
 
 ## ❤️ Acknowledgments
-Dataset: Fitbit Dataset – Kaggle by Mobius    
-Framework: Google Data Analytics Capstone             
-Tools: R, tidyverse, ggplot2, cluster   
+* Dataset: Fitbit Dataset – Kaggle by Mobius    
+* Framework: Google Data Analytics Capstone             
+* Tools: R, tidyverse, ggplot2, cluster   
