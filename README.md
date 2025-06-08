@@ -96,6 +96,6 @@ This case study helped me apply real-world data skills using R and demonstrate h
 
 📈 Insightful visualizations
 
-### 📎 Ready-to-use portfolio project for aspiring data analysts
+## 📎 Ready-to-use portfolio project for aspiring data analysts
 
 Feel free to clone, fork, or reach out with any suggestions or feedback!
