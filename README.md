@@ -67,6 +67,8 @@ Sedentary Users
 
 ![image](https://github.com/user-attachments/assets/fd649c99-adab-4846-bedc-892ef5af8cc4)
 
+>Scenario based Clustering
+
 ## 📢 Insights & Recommendations
 🔍 Insights:
 Engagement levels drop on weekends        
