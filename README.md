@@ -5,8 +5,11 @@ Bellabeat-Fitbit Data Analysis is a portfolio project based on the Google Data A
 
 ![Image](https://github.com/user-attachments/assets/228bac97-9445-49d5-930a-d990965a01ff)
 
+```
+
 🔗 View the full project on Kaggle: https://www.kaggle.com/code/mohammedabdulmuqtadi/bellabeat-fitbit
 
+```
 ## 🌟 Features
 📅 Daily Engagement Trends — Tracks activity frequency and consistency
 
@@ -35,9 +38,6 @@ Platform: Kaggle Notebooks
 
 ## 📂 Project Structure
 ```
-plaintext
-Copy
-Edit
 bellabeat-fitbit.ipynb      # Main Kaggle R notebook
 📊 Inline Visualizations     # ggplot2 graphs for trends, clusters, and correlations
 📁 Dataset Source            # Fitbit public dataset on Kaggle (CSV files)
@@ -45,12 +45,14 @@ bellabeat-fitbit.ipynb      # Main Kaggle R notebook
 ```
 ## 🖥️ How to Run the Project
 1. Visit the Kaggle Notebook
-🔗 Kaggle Project Link
+```
+🔗 Kaggle Project Link: https://www.kaggle.com/code/mohammedabdulmuqtadi/bellabeat-fitbit
 
-2. Click “Copy & Edit”
+```
+3. Click “Copy & Edit”
 This will fork the notebook into your own Kaggle environment.
 
-3. Run All Cells
+4. Run All Cells
 Make sure all dependencies are available and the runtime is set to R.
 
 ## 📊 Key Analyses
