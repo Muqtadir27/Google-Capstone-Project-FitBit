@@ -50,9 +50,9 @@ Make sure all dependencies are available and the runtime is set to R.
 
 
 ## 📊 Key Analyses
-✅ Date Conversion: Used lubridate::mdy() to create a clean daily date column (Ymd)
-👣 Steps & Distance Trends: Summarized and visualized using group_by() and summarise()
-🔥 Calories vs Activity: Used scatter plots + linear regression for calories vs steps/distance
+✅ Date Conversion: Used lubridate::mdy() to create a clean daily date column (Ymd)      
+👣 Steps & Distance Trends: Summarized and visualized using group_by() and summarise()      
+🔥 Calories vs Activity: Used scatter plots + linear regression for calories vs steps/distance       
 
 
 
@@ -69,13 +69,13 @@ Sedentary Users
 
 ## 📢 Insights & Recommendations
 🔍 Insights:
-Engagement levels drop on weekends
-Higher steps and distance correlate strongly with calorie burn
-Users show distinct activity behavior profiles (clustered)
+Engagement levels drop on weekends        
+Higher steps and distance correlate strongly with calorie burn      
+Users show distinct activity behavior profiles (clustered)     
 ## 📈 Recommendations:
-🎯 Personalized Plans: Adapt Bellabeat features per cluster type
-📆 Weekend Challenges: Boost activity during low-engagement days
-💧 Smart Suggestions: Recommend hydration, mindfulness, or rest based on patterns
+🎯 Personalized Plans: Adapt Bellabeat features per cluster type     
+📆 Weekend Challenges: Boost activity during low-engagement days     
+💧 Smart Suggestions: Recommend hydration, mindfulness, or rest based on patterns     
 
 
 ## 🏁 Conclusion
@@ -95,19 +95,15 @@ bash
 ```
 
 ## 📜 License
-This project uses data released under CC0: Public Domain.
-All analysis and visualizations by Mohammed Abdul Muqtadir. Feel free to reuse with credit.
+This project is licensed under the **Apache 2.0 License**.  
+All analysis and visualizations by Mohammed Abdul Muqtadir. Feel free to reuse with credit.     
 
 ## 📧 Contact
-Mohammed Abdul Muqtadir
-
-🌐 GitHub: Muqtadir27
-
-📫 Email: abdulmuqtadir1027@gmail.com
+Mohammed Abdul Muqtadir        
+🌐 GitHub: Muqtadir27         
+📫 Email: abdulmuqtadir1027@gmail.com               
 
 ## ❤️ Acknowledgments
-Dataset: Fitbit Dataset – Kaggle by Mobius
-
-Framework: Google Data Analytics Capstone – Coursera
-
-Tools: R, tidyverse, ggplot2, cluster
+Dataset: Fitbit Dataset – Kaggle by Mobius    
+Framework: Google Data Analytics Capstone – Coursera    
+Tools: R, tidyverse, ggplot2, cluster   
