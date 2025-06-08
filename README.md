@@ -23,6 +23,10 @@ tidyverse, lubridate, ggplot2, cluster
 
 
 ## 🧹 Data Preparation
+
+![image](https://github.com/user-attachments/assets/6567c333-2b0a-4f2c-abf7-42232ab20b76)
+
+
 Converted date format using lubridate::mdy()
 
 Created a Ymd column for daily aggregation
