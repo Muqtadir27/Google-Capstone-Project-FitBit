@@ -10,21 +10,21 @@ Bellabeat-Fitbit Data Analysis is a portfolio project based on the Google Data A
 
 ## 🌟 Features
 
-📅 Daily Engagement Trends — Tracks activity frequency and consistency
-👣 Step & Distance Analysis — Summarizes physical activity habits
-🔥 Calories vs Effort Visualization — Understands energy expenditure patterns
-🔍 Clustering — Groups users based on behavior using K-Means
-📊 Data Visualizations — Clear plots using ggplot2
+📅 Daily Engagement Trends — Tracks activity frequency and consistency    
+👣 Step & Distance Analysis — Summarizes physical activity habits    
+🔥 Calories vs Effort Visualization — Understands energy expenditure patterns    
+🔍 Clustering — Groups users based on behavior using K-Means     
+📊 Data Visualizations — Clear plots using ggplot2     
 
 
 ## 🛠️ Technology Stack
-Language: R
-### Libraries:
-tidyverse – data wrangling
-lubridate – date handling
-ggplot2 – visualizations
-cluster – K-Means clustering
-Platform: Kaggle Notebooks
+Language: R     
+### Libraries:     
+tidyverse – data wrangling      
+lubridate – date handling     
+ggplot2 – visualizations     
+cluster – K-Means clustering    
+Platform: Kaggle Notebooks     
 
 
 ## 📂 Project Structure
