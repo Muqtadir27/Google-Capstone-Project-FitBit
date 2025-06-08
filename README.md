@@ -8,8 +8,6 @@ Bellabeat-Fitbit Data Analysis is a portfolio project based on the Google Data A
 🔗 View the full project on Kaggle: https://www.kaggle.com/code/mohammedabdulmuqtadi/bellabeat-fitbit
 ```
 
-
----
 ## 🌟 Features
 
 📅 Daily Engagement Trends — Tracks activity frequency and consistency
@@ -17,8 +15,6 @@ Bellabeat-Fitbit Data Analysis is a portfolio project based on the Google Data A
 🔥 Calories vs Effort Visualization — Understands energy expenditure patterns
 🔍 Clustering — Groups users based on behavior using K-Means
 📊 Data Visualizations — Clear plots using ggplot2
-
----
 
 
 ## 🛠️ Technology Stack
@@ -39,9 +35,6 @@ bellabeat-fitbit.ipynb      # Main Kaggle R notebook
 💡 Since this project was developed on Kaggle, it follows a notebook-centric structure. All analysis is done interactively in R within a single notebook.
 ```
 
----
-
-
 
 ## 🖥️ How to Run the Project
 1. Visit the Kaggle Notebook
@@ -54,8 +47,6 @@ This will fork the notebook into your own Kaggle environment.
 4. Run All Cells
 Make sure all dependencies are available and the runtime is set to R.
 
-
----
 
 
 ## 📊 Key Analyses
@@ -70,8 +61,6 @@ High Activity & Calories
 Moderate Activity
 Sedentary Users
 
-
----
 
 
 ## 📈 Visualization Example:
@@ -88,7 +77,6 @@ Users show distinct activity behavior profiles (clustered)
 📆 Weekend Challenges: Boost activity during low-engagement days
 💧 Smart Suggestions: Recommend hydration, mindfulness, or rest based on patterns
 
----
 
 ## 🏁 Conclusion
 This case study demonstrates the power of data storytelling using R. It not only showcases user behavior patterns from wearable data, but also offers actionable recommendations that Bellabeat can apply to enhance its product engagement and marketing strategy.
