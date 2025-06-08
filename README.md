@@ -14,7 +14,7 @@ Bellabeat aims to leverage insights from smart device usage to inform its market
 ## 📁 Data Source
 Fitbit Fitness Tracker Data (CC0: Public Domain): Daily metrics from 30 users over 31 days, including steps, distance, calories, activity minutes, and sedentary behavior.
 
-Dataset on Kaggle
+Dataset on Kaggle: https://www.kaggle.com/datasets/arashnic/fitbit
 
 ## 🔧 Tools Used
 R Programming Language
