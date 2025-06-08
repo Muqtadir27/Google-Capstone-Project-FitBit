@@ -57,6 +57,9 @@ TotalSteps, VeryActiveMinutes, SedentaryMinutes, Calories
 
 🔹 Cluster Visualization: Grouped users into 3 distinct behavior profiles:
 
+![image](https://github.com/user-attachments/assets/fd649c99-adab-4846-bedc-892ef5af8cc4)
+
+
 High Activity & Calories
 
 Moderate Activity
