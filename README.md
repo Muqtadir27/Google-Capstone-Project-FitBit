@@ -101,7 +101,7 @@ bash
 
 ## 📧 Contact
 Mohammed Abdul Muqtadir        
-🌐 GitHub: Muqtadir27         
+🌐 GitHub: [Muqtadir27    ](https://github.com/Muqtadir27)     
 📫 Email: abdulmuqtadir1027@gmail.com               
 
 ## ❤️ Acknowledgments
