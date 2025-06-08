@@ -11,13 +11,14 @@ Bellabeat-Fitbit Data Analysis is a portfolio project based on the Google Data A
 
 ---
 ## 🌟 Features
+
 📅 Daily Engagement Trends — Tracks activity frequency and consistency
 👣 Step & Distance Analysis — Summarizes physical activity habits
 🔥 Calories vs Effort Visualization — Understands energy expenditure patterns
 🔍 Clustering — Groups users based on behavior using K-Means
 📊 Data Visualizations — Clear plots using ggplot2
----
 
+---
 
 
 ## 🛠️ Technology Stack
@@ -86,20 +87,26 @@ Users show distinct activity behavior profiles (clustered)
 🎯 Personalized Plans: Adapt Bellabeat features per cluster type
 📆 Weekend Challenges: Boost activity during low-engagement days
 💧 Smart Suggestions: Recommend hydration, mindfulness, or rest based on patterns
+
+---
+
 ## 🏁 Conclusion
 This case study demonstrates the power of data storytelling using R. It not only showcases user behavior patterns from wearable data, but also offers actionable recommendations that Bellabeat can apply to enhance its product engagement and marketing strategy.
+
+
 ## 🤝 Contributing
 While this was a solo case study project, feedback and improvements are always welcome!
 
 To contribute:
-
+```
 bash
-Copy
-Edit
 1. Fork the repository (Kaggle Notebook)
 2. Add your own enhancements or visualizations
 3. Share via Kaggle public sharing or PR on GitHub (if applicable)
-📜 License
+
+```
+
+## 📜 License
 This project uses data released under CC0: Public Domain.
 All analysis and visualizations by Mohammed Abdul Muqtadir. Feel free to reuse with credit.
 
